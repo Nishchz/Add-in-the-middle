@@ -38,7 +38,7 @@
       <li><mark><b>Time Complexity->O(n)</b></mark></li>
       <li> traversal is required to reach the given index</li>
       <hr>
-      <li><mark><b>Space complexity->o(1)</b></mark></li>
+      <li><mark><b>Space complexity->O(1)</b></mark></li>
       <li>No extra data structure are used</li>
     </ul>
   </div>
