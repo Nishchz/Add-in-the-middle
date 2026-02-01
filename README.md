@@ -30,6 +30,18 @@
       <li>Point new node to <mark><b>temp.next</b></mark></li>
       <li>Point <mark><b>temp.next</b></mark> to new node</li>
     </ul>
+    <p><mark><b>This ensure the node is inserted at the correct position</b></mark></p>
   </div>
+  <div>
+    <h1>⏳Time 🚀 Space Complexity</h1>
+    <ul>
+      <li><mark><b>Time Complexity->O(n)</b></mark></li>
+      <li> traversal is required to reach the given index</li>
+      <hr>
+      <li><mark><b>Space complexity->o(1)</b></mark></li>
+      <li>No extra data structure are used</li>
+    </ul>
+  </div>
+  
 </body> 
 
