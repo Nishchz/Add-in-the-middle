@@ -41,6 +41,19 @@
       <li>No extra data structure are used</li>
     </ul>
   </div>
+  <div>
+    <h1>🗝️ Key points </h1>
+    <ul>
+      <li><mark><b>Head </b></mark>ia a special case and must be handled separately</li>
+      <li>Correct pointners manipulation is essential </li>
+      <li>Understanding traversal logic makes LinkedList easier</li>
+    </ul>
+  </div>
+  <div>
+  <p>Revised and implemented as a part of DSA revision</p>
+  <p><mark><b>Guided by Apna College 💙 </b></mark></p>
+    
+  </div>
   
 </body> 
 
