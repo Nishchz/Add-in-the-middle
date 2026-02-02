@@ -45,7 +45,7 @@
     <h1>🗝️ Key points </h1>
     <ul>
       <li><mark><b>Head </b></mark>ia a special case and must be handled separately</li>
-      <li>Correct pointners manipulation is essential </li>
+      <li>Correct pointers manipulation is essential </li>
       <li>Understanding traversal logic makes LinkedList easier</li>
     </ul>
   </div>
